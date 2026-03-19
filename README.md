@@ -1,15 +1,8 @@
-## Project  Topic: Healthcare Data Analysis and Disease Prediction
----
 # Heartbeat Sentinel: Decoding and Predicting Heart Failure
-## 🌐 **Try it Live!**  
 
-🚀 Experience the **Heart Disease Prediction App** in action:  
-👉 [**Check it out here!**](https://heartbeatsentineldecodingandpredictingheartfailure.streamlit.app/)  
+🌐 **Try it Live!** Experience the **Heart Disease Prediction App** in action:  
+- [**Check it out here!**](https://heartbeatsentineldecodingandpredictingheartfailure.streamlit.app/)  
 
-🩺 Predict heart disease risk with ease using advanced Machine Learning models.  
-💻 Explore the power of data-driven insights in healthcare.  
-
----
 <hr style="border: 1px dashed grey; width: 80%;"/>
 
 
@@ -53,7 +46,3 @@ Cardiovascular diseases (CVDs) simply Heart disease remain one of the leading ca
 ## Conclusion
 This project underscores the potential of machine learning in healthcare, particularly in predicting heart failure risk. By leveraging models like Random Forest and XGBoost, we canoffer a reliable approach for early risk identification in future, paving the way for personalized medicine and better management of cardiovascular diseases. Despite the limitations, the outcomes of this study provide a strong foundation for further research and application, contributing to the broader goal of reducing CVD-related morbidity and mortality.
 
-
-# ----------------------------------------------------------------
-### * If want to know more about this project there are python Notebook file, Project report paper and all other resources included in same repository.
-### * Feel free to reach out, I'm open to engaging in meaningful conversations and exchanging ideas on these areas. I welcome the chance to explore new insights, collaborate on projects, and contribute to ongoing discussions in these fields.
